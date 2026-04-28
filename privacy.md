@@ -4,16 +4,16 @@ title: Política de Privacidad — ReyFit
 
 # Política de Privacidad de ReyFit
 
-**Última actualización:** 27 de abril de 2026
-**Vigente desde:** [FECHA_DE_PUBLICACIÓN]
+**Última actualización:** 28 de abril de 2026
+**Vigente desde:** 28 de abril de 2026
 
 Esta Política de Privacidad describe cómo se recopila, usa y protege tu información cuando usas la aplicación móvil **ReyFit** ("la App"). Al usar ReyFit aceptas las prácticas descritas aquí.
 
 ## 1. Responsable del tratamiento
 
-- **Responsable:** [TU_NOMBRE_COMPLETO_O_RAZÓN_SOCIAL]
+- **Responsable:** Zyben Lab
 - **País:** Chile
-- **Contacto:** [TU_EMAIL_DE_CONTACTO]
+- **Contacto:** zybenlab@gmail.com
 
 ## 2. Datos que recopilamos
 
@@ -94,7 +94,7 @@ Bajo la Ley 19.628 (Chile), el RGPD (UE) y la CCPA (California, EE.UU.), tienes 
 - **Oponerte** a determinados tratamientos.
 - **Retirar tu consentimiento** en cualquier momento.
 
-Para ejercer cualquiera de estos derechos escríbenos a [TU_EMAIL_DE_CONTACTO]. Responderemos dentro de los plazos que exige la ley aplicable (15 días hábiles en Chile).
+Para ejercer cualquiera de estos derechos escríbenos a zybenlab@gmail.com. Responderemos dentro de los plazos que exige la ley aplicable (15 días hábiles en Chile).
 
 Si consideras que vulneramos tus derechos, puedes presentar un reclamo ante:
 
@@ -119,8 +119,8 @@ Podemos actualizar esta política. La fecha de "Última actualización" reflejar
 
 Para cualquier consulta sobre esta política o sobre tus datos:
 
-- **Email:** [TU_EMAIL_DE_CONTACTO]
-- **Responsable:** [TU_NOMBRE_COMPLETO_O_RAZÓN_SOCIAL]
+- **Email:** zybenlab@gmail.com
+- **Responsable:** Zyben Lab
 
 ---
 

@@ -4,14 +4,14 @@ title: Términos y Condiciones de Uso — ReyFit
 
 # Términos y Condiciones de Uso de ReyFit
 
-**Última actualización:** 27 de abril de 2026
-**Vigente desde:** [FECHA_DE_PUBLICACIÓN]
+**Última actualización:** 28 de abril de 2026
+**Vigente desde:** 28 de abril de 2026
 
 Estos Términos rigen el uso de la aplicación móvil **ReyFit** ("la App"). Al descargar, instalar o usar la App aceptas estos Términos íntegramente. Si no estás de acuerdo, no uses la App.
 
 ## 1. Quiénes somos
 
-ReyFit es una app de fitness y nutrición operada por [TU_NOMBRE_COMPLETO_O_RAZÓN_SOCIAL], domiciliado en Chile (en adelante, "nosotros" o "ReyFit"). Para contacto: [TU_EMAIL_DE_CONTACTO].
+ReyFit es una app de fitness y nutrición operada por Zyben Lab, domiciliado en Chile (en adelante, "nosotros" o "ReyFit"). Para contacto: zybenlab@gmail.com.
 
 ## 2. Elegibilidad
 
@@ -79,7 +79,7 @@ El incumplimiento puede llevar a la suspensión o eliminación de tu cuenta sin 
 
 ## 9. Propiedad intelectual de ReyFit
 
-Todos los derechos sobre la App (código, diseño, marca, textos, logos, base de datos de ejercicios y similares) son de [TU_NOMBRE_COMPLETO_O_RAZÓN_SOCIAL] o de sus licenciantes. No se otorga ninguna licencia sobre estos elementos más allá del uso normal de la App.
+Todos los derechos sobre la App (código, diseño, marca, textos, logos, base de datos de ejercicios y similares) son de Zyben Lab o de sus licenciantes. No se otorga ninguna licencia sobre estos elementos más allá del uso normal de la App.
 
 ## 10. Precio
 
@@ -89,7 +89,7 @@ ReyFit se distribuye **gratuitamente** en su versión actual. En el futuro podem
 
 - No garantizamos disponibilidad continua e ininterrumpida del servicio.
 - Hacemos esfuerzos razonables por mantener la App operativa, pero pueden ocurrir mantenimientos programados, caídas técnicas o interrupciones por terceros (Supabase, Google).
-- El soporte se ofrece por correo a [TU_EMAIL_DE_CONTACTO]. No garantizamos tiempos de respuesta específicos.
+- El soporte se ofrece por correo a zybenlab@gmail.com. No garantizamos tiempos de respuesta específicos.
 
 ## 12. Limitación de responsabilidad
 
@@ -122,8 +122,8 @@ Si eres consumidor en la Unión Europea, los derechos imperativos de la legislac
 
 ## 17. Contacto
 
-- **Email:** [TU_EMAIL_DE_CONTACTO]
-- **Responsable:** [TU_NOMBRE_COMPLETO_O_RAZÓN_SOCIAL]
+- **Email:** zybenlab@gmail.com
+- **Responsable:** Zyben Lab
 
 ---
 
