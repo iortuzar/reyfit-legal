@@ -10,4 +10,4 @@
 
 Tu cuenta y todos tus datos (comidas registradas, rutinas, peso, progreso) serán eliminados permanentemente en los próximos 30 días.
 
-Si tienes problemas, contacta a iortuzar@gmail.com.
+Si tienes problemas, contacta a zybenlab@gmail.com.
